@@ -1,5 +1,6 @@
 *{margin: 0%; font-family: 'Comic Sans MS', cursive, sans-serif, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
     text-decoration: none;}
+.corpo{ background-image: url("../img/logo2.png"); background-size: 100%;}
 .cabecalho, .rodape, .divRodape, .tableInicio, .linha{width: 100%; float: left;  }
 .barraMenu{width: 100%; background-color: #333; padding: 3px 0px; overflow: auto;}  
 .barraMenu a{width: 10%; float: left; margin-top: 1.5%;color: white; text-align: center;  text-decoration: none;  }  
