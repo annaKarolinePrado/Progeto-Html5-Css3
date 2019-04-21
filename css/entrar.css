@@ -1,0 +1,6 @@
+.corpo, .sectionEntrar, .formEntrar{width: 100%; float: left;}
+.divEntrar{width: 50%; float: left; margin-left: 25%; text-align: center; margin-bottom: 2%;}
+fieldset input{width: 55%;  padding: 5px 0; border-radius: 3px;}
+.formEntrar label{width: 100%; float: left; }
+.formEntrar input{width: 56%; float: left; margin-left: 22%; margin-top: 4px;}
+#btn{width: 30%; margin-left: 35%; cursor: pointer; margin-top: 2%;}
