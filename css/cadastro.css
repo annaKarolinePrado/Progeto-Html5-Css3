@@ -1,0 +1,11 @@
+.corpo, .sectionCadastro, .formCadastro{width: 100%; float: left;}
+.divCadastro{width: 50%; float: left; margin-left: 25%; text-align: center; margin-bottom: 2%;}
+fieldset input{width: 55%;  padding: 5px 0; border-radius: 3px;}
+.sexoDivisor{width: 50%; float: left;}
+.formCadastro label{width: 100%; float: left; }
+.formCadastro input{width: 56%; float: left; margin-left: 22%; margin-top: 4px;}
+.sexoDivisor input{width: 5%; margin-left: 44%;}
+#masculino{margin-left: 0%;}
+.sexoDivisor label{width: 51%;}
+.formCadastro{margin-top: 10px;}
+#btn{width: 30%; margin-left: 35%; cursor: pointer;}

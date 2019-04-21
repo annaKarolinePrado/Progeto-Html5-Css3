@@ -8,10 +8,12 @@
             color: white; text-align: center; padding: 7px 0px; text-decoration: none; }
 .logo{width: 9%; float: left; margin-right: 1%;}
 .formBusca{width: 21%; float: right; margin-top: 1.5%;}
-.formBusca input button{width: 77%; float: left; background-color:  aliceblue; border-radius: 5px;}
+.formBusca input button{width: 77%; float: left; background-color:  aliceblue; border-radius: 5px; }
+button{cursor: pointer;}
 .corpo{background-color: #777; }
 .coluna img{width: 100%; float: left; }
 .coluna{width: 25%; float: left; margin-left: 6%; margin-top: 2%;}
 .coluna b{width: 100%; float: left; text-align: center; font-size: 1.5em;}
 h1{text-align: center;}
+
 

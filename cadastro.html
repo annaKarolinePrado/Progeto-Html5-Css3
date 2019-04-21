@@ -24,7 +24,45 @@
         </nav>
 
         <main class="corpo">
-
+            <section class="sectionCadastro">
+                <div class="divCadastro">
+                    <h2>Cadastre-se</h2>                    
+                    <form action="mailto:anna&taina@exemplo.com" method="POST">
+                        <fieldset>
+                            <legend>Cadastro:</legend>
+                            <div class="formCadastro">
+                                <label>Nome:</label>
+                                <input type="text" name="nome" >
+                            </div>
+                            <div class="formCadastro">
+                                <label>E-mail:</label>
+                                <input type="text" name="email" >
+                            </div>
+                            <div class="formCadastro">
+                                <label>Telefone:</label>
+                                <input type="text" name="telefone" >
+                            </div>
+                            <div class="formCadastro" id="sexoMargem">
+                                <span class="sexoDivisor">
+                                    <input class="sexo" type="radio" name="sexo" value="F" checked="checked">
+                                    <label for="sexoF">Feminino</label>
+                                </span>
+                                <span class="sexoDivisor">
+                                    <input  id="masculino" class="sexo" type="radio" name="sexo" value="M">
+                                    <label>Masculino</label>
+                                </span>
+                            </div>
+                            <div class="formCadastro">
+                                <label>Senha:</label>
+                                <input type="password" name="senha" >
+                            </div>
+                            <div class="formCadastro">
+                                <input id="btn" type="submit" value="Cadastrar">
+                            </div>
+                        </fieldset>
+                    </form>
+                </div>
+            </section>
         </main>
 
         <footer class="rodape">
