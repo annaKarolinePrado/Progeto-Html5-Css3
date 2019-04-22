@@ -1,8 +1,7 @@
 *{margin: 0%; font-family: 'Comic Sans MS', cursive, sans-serif, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
     text-decoration: none;}
-.corpo{ background-image: url("../img/logo2.png"); background-size: 100%;}
 .cabecalho, .rodape, .divRodape, .tableInicio, .linha{width: 100%; float: left;  }
-.barraMenu{width: 100%; background-color: #333; padding: 3px 0px; overflow: auto;}  
+.barraMenu{width: 100%; background-color: #333; padding: 3px 0px; overflow: auto; }  
 .barraMenu a{width: 10%; float: left; margin-top: 1.5%;color: white; text-align: center;  text-decoration: none;  }  
 .barraMenu a:hover{background-color: #777;  }
 .divRodape p{width: 50%; float: left; background-color: #333; overflow: auto; white-space: nowrap; display: inline-block; 
@@ -11,7 +10,7 @@
 .formBusca{width: 21%; float: right; margin-top: 1.5%;}
 .formBusca input button{width: 77%; float: left; background-color:  aliceblue; border-radius: 5px; }
 button{cursor: pointer;}
-.corpo{background-color: #777; }
+.corpo{background-color: #777;}
 .coluna img{width: 100%; float: left; }
 .coluna{width: 25%; float: left; margin-left: 6%; margin-top: 2%;}
 .coluna b{width: 100%; float: left; text-align: center; font-size: 1.5em;}

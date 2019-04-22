@@ -1,9 +1,7 @@
-
 .corpo, .sectionSobre{width: 100%; float: left;}
-.corpo{ background-image: url("../img/logo2.png"); background-size: 100%;}
 .divTextos{width: 40%; float: left; margin-left: 30%; background-color: #777;}
-.divSobre p, .divSobre b{width: 70%; float: center; margin-left: 15%; margin-top: 5%; text-align: justify;}
-
+.divSobre p, .divSobre b{width: 70%; float: center; margin-left: 15%; margin-top: 2%; text-align: justify;}
+.divSobre{ margin-top: 5%;}
  
  
  
